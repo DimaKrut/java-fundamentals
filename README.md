@@ -1,6 +1,6 @@
 
-# Basic Project
-## Basic Project Structure
+### Java Fundamentals
+# Project which practices on funadmental Java practices
 
 Default Structure for A Basic Project
 
@@ -12,5 +12,5 @@ Java 7
 
 Java Project for SQA Boot Camp Program.
 
-[Dmitriy Krutikov](http://sqasolution.com)# basic-project
-# basic-project
+[Dmitriy Krutikov](http://sqasolution.com)
+# Java Fundamentals
